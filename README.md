@@ -1,16 +1,13 @@
-### Hi there 👋
+👋🏼 Hey, I'm Dewa—
 
-<!--
-**ardinusawan/ardinusawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Jakarta & Bali based
 
-Here are some ideas to get you started:
+💼 Software Engineer at Gojek Indonesia; ex-Mapan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍🏼 Writing code as daily basis
+
+🎓ITS Surabaya 2017
+
+♥️ Code, cyclist on weekend, read a book before sleep
+
+🐹 Cat owner!
