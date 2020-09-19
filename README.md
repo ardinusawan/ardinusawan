@@ -2,7 +2,7 @@
 
 📍 Jakarta & Bali based
 
-💼 Software Engineer at Gojek Indonesia; ex-Mapan
+💼 Software Engineer at Gojek Indonesia
 
 ✍🏼 Writing code as daily basis
 
