@@ -12,4 +12,4 @@
 
 🐹 Cat owner!
 
-Find more on [ardinusawan.xyz](https://ardinusawan.xyz)
+Find out more on [ardinusawan.xyz](https://ardinusawan.xyz)
