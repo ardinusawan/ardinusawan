@@ -1,8 +1,8 @@
 👋🏼 Hey, I'm Dewa—
 
-📍 Jakarta & Bali based
+📍 Bali
 
-💼 Software Engineer at Gojek Indonesia
+💼 Software Engineer at Gojek
 
 ✍🏼 Writing code as daily basis
 
