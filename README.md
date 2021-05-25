@@ -8,8 +8,6 @@
 
 🎓ITS Surabaya 2017
 
-♥️ Code, cyclist on weekend, read a book before sleep
+♥️ Travel, gym
 
-🐹 Cat owner!
-
-Find out more on [ardinusawan.xyz](https://ardinusawan.xyz)
+Find out more on [ardinusawan.com](https://ardinusawan.com)
