@@ -10,4 +10,4 @@
 
 ♥️ Travel, gym
 
-Find out more on [ardinusawan.xyz](https://ardinusawan.com) and my blog on [blog.ardinusawan.xyz](https://blog.ardinusawan.xyz)
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
