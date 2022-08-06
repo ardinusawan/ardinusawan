@@ -8,6 +8,7 @@
 
 🎓ITS Surabaya 2017
 
-♥️ Travel, gym
+♥️ Travel, Gym
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
