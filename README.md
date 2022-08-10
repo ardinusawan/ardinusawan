@@ -10,6 +10,7 @@
 
 ♥️ Travel, Gym
 
+Stats this week:
 <!--START_SECTION:waka-->
 
 ```text
