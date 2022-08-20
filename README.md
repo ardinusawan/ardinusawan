@@ -1,15 +1,3 @@
-👋🏼 Hey, I'm Dewa—
-
-📍 Bali
-
-💼 Software Engineer at Gojek
-
-✍🏼 Writing code as daily basis
-
-🎓ITS Surabaya 2017
-
-♥️ Travel, Gym
-
 Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 Stats this week:
