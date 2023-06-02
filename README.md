@@ -3,7 +3,7 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 Stats this week:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript      24 hrs 13 mins  █████████████▒░░░░░░░░░░░   53.19 %
 YAML            6 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
 Python          3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
