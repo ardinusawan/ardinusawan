@@ -4,11 +4,11 @@ Stats this week:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      3 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.11 %
-JavaScript      1 hr 54 mins    ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-Bash            1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Markdown        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-conf            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript   4 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.62 %
+JavaScript   2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Bash         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Go           27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
