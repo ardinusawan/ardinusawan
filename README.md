@@ -12,3 +12,4 @@ Ezhil           54 mins         █░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+Data taken from https://wakatime.com/@ardinusawan
