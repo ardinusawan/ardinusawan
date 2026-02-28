@@ -5,13 +5,17 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     20 mins             █████████░░░░░░░░░░░░░░░░   36.57 % 
+JavaScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+XML                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     55 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/02/2026 18:38:59 UTC
+ Last Updated on 28/02/2026 20:30:39 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
