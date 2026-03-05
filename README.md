@@ -5,17 +5,18 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-JavaScript               57 mins             █████████░░░░░░░░░░░░░░░░   37.49 % 
-HTML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-XML                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+TypeScript               3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
+Go                       1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+JavaScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-Trae                     2 hrs 34 mins       █████████████████████████   100.00 % 
+Trae                     6 hrs 40 mins       ███████████████████░░░░░░   75.65 % 
+GoLand                   2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
 ```
 
 
- Last Updated on 05/03/2026 18:08:02 UTC
+ Last Updated on 05/03/2026 20:41:21 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
