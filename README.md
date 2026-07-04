@@ -5,18 +5,19 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 43 mins       ████████████████████████░   97.07 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Thrift                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Go                       3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
+TypeScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+SQL                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 14 mins       █████████████████████░░░░   84.42 % 
-Claude Code              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Trae                     4 hrs 19 mins       █████████████░░░░░░░░░░░░   53.04 % 
+GoLand                   3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.65 % 
+Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 ```
 
 
- Last Updated on 04/07/2026 17:10:22 UTC
+ Last Updated on 04/07/2026 19:20:03 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
