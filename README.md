@@ -5,21 +5,20 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       10 hrs 13 mins      ███████████████░░░░░░░░░░   60.49 % 
-TypeScript               5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-go.mod                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Go                       10 hrs 13 mins      ██████████████████░░░░░░░   73.57 % 
+TypeScript               2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+go.mod                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-GoLand                   10 hrs 4 mins       ███████████████░░░░░░░░░░   59.62 % 
-Trae                     4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-Antigravity IDE          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Claude Code              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GoLand                   10 hrs 4 mins       ██████████████████░░░░░░░   72.52 % 
+Trae                     2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Claude Code              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 12/07/2026 17:02:35 UTC
+ Last Updated on 12/07/2026 19:10:34 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
