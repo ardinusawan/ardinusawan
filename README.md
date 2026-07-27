@@ -1,6 +1,8 @@
 Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2033%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -14,7 +16,13 @@ Text                     0 secs              ░░░░░░░░░░░�
 GoLand                   2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:44:13 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 27/07/2026 17:45:08 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
