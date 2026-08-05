@@ -7,15 +7,15 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 18 mins       ███████████████████████░░   92.91 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Go                       6 hrs 54 mins       █████████████████████░░░░   83.88 % 
+TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-GoLand                   7 hrs 18 mins       ███████████████████████░░   92.91 % 
-Trae                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+GoLand                   6 hrs 54 mins       █████████████████████░░░░   83.88 % 
+Trae                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -25,6 +25,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2026 17:43:34 UTC
+ Last Updated on 05/08/2026 19:40:46 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
