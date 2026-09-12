@@ -7,41 +7,40 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 20 mins       █████████████████░░░░░░░░   66.66 % 
-TypeScript               3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Go                       7 hrs 20 mins       ███████████████████░░░░░░   75.02 % 
+TypeScript               2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-GoLand                   7 hrs 21 mins       █████████████████░░░░░░░░   66.80 % 
-Trae                     3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
+GoLand                   7 hrs 21 mins       ███████████████████░░░░░░   75.17 % 
+Trae                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (31.61%)
+⏱ AI Coding Time: 2 hrs 15 mins (23.04%)
 
-✍️ 999 lines written by AI, 31,224 lines written by hand (3.1% AI-written)
+✍️ 711 lines written by AI, 31,224 lines written by hand (2.23% AI-written)
 
-🔤 5,390,835 Input Tokens, 138,659 Output Tokens
+🔤 2,634,141 Input Tokens, 58,937 Output Tokens
 
-💵 $187.88 Estimated AI Cost This Week
+💵 $140.94 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 32 AI Prompts
+🧠 1 AI Sessions, 13 AI Prompts
 
-Opencode-Cli             1,013 lines         █████████████████████░░░░   82.42 % 
-Glm                      216 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Opencode-Cli             853 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.1% of written lines came from AI
-📄 Detailed Prompter — average 551 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 98.35% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.23% of written lines came from AI
+📝 Concise Prompter — average 441 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 98.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 16:51:39 UTC
+ Last Updated on 12/09/2026 20:22:22 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
