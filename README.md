@@ -7,45 +7,45 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       11 hrs 12 mins      ██████████████░░░░░░░░░░░   56.45 % 
-TypeScript               7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.63 % 
-Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Go                       8 hrs 34 mins       ███████████████░░░░░░░░░░   58.16 % 
+TypeScript               5 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-GoLand                   11 hrs 14 mins      ██████████████░░░░░░░░░░░   56.66 % 
-Trae                     8 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
-Antigravity IDE          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+GoLand                   8 hrs 37 mins       ███████████████░░░░░░░░░░   58.45 % 
+Trae                     5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+Antigravity IDE          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 5 mins (40.75%)
+⏱ AI Coding Time: 5 hrs 36 mins (38.07%)
 
-✍️ 4,414 lines written by AI, 44,217 lines written by hand (9.08% AI-written)
+✍️ 3,475 lines written by AI, 42,852 lines written by hand (7.5% AI-written)
 
-🔤 8,788,519 Input Tokens, 673,052 Output Tokens
+🔤 7,752,942 Input Tokens, 496,362 Output Tokens
 
-💵 $969.61 Estimated AI Cost This Week
+💵 $746.38 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 86 AI Prompts
+🧠 9 AI Sessions, 74 AI Prompts
 
-Glm                      3,553 lines         █████████████████░░░░░░░░   68.91 % 
-Opencode-Cli             1,248 lines         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Deepseek                 216 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Gemini                   137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Opus                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Glm                      2,485 lines         ███████████████░░░░░░░░░░   60.79 % 
+Opencode-Cli             1,248 lines         ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Deepseek                 216 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Gemini                   137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Opus                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.08% of written lines came from AI
-📄 Detailed Prompter — average 1,300 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 98.59% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 7.5% of written lines came from AI
+📄 Detailed Prompter — average 1,498 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 98.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 16:35:35 UTC
+ Last Updated on 17/09/2026 21:07:02 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
