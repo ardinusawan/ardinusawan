@@ -7,12 +7,10 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 9 mins        █████████████████████████   100.00 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Go                       1 hr 9 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 9 mins        █████████████████████████   100.00 % 
+GoLand                   1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -22,6 +20,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2026 19:21:08 UTC
+ Last Updated on 06/10/2026 23:39:53 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
