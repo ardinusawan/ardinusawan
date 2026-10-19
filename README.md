@@ -7,24 +7,24 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-Go                       4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.85 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Go                       4 hrs 58 mins       █████████████░░░░░░░░░░░░   50.27 % 
+TypeScript               4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.85 % 
-Opencode Cli             4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
-Trae                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+GoLand                   4 hrs 58 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Opencode Cli             4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.85 % 
+Trae                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (54.15%)
+⏱ AI Coding Time: 4 hrs 55 mins (49.73%)
 
-✍️ 2,390 lines written by AI, 12,615 lines written by hand (15.93% AI-written)
+✍️ 2,390 lines written by AI, 12,659 lines written by hand (15.88% AI-written)
 
 🔤 2,915,732 Input Tokens, 491,526 Output Tokens
 
@@ -37,13 +37,13 @@ Opencode-Cli             512 lines           █████░░░░░░�
 GLM                      318 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.93% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 15.88% of written lines came from AI
 📄 Detailed Prompter — average 1,208 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 97.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 19:43:02 UTC
+ Last Updated on 19/10/2026 23:28:03 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
