@@ -7,23 +7,23 @@ Personal website: [ardinusawan.xyz](https://ardinusawan.xyz)
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 11 mins       ██████████████████████░░░   89.31 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Go                       5 hrs 18 mins       ██████████████████████░░░   87.73 % 
+JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-GoLand                   5 hrs 51 mins       █████████████████████░░░░   84.47 % 
-Claude Code              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+GoLand                   4 hrs 57 mins       █████████████████████░░░░   82.16 % 
+Claude Code              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (16.14%)
+⏱ AI Coding Time: 1 hr 7 mins (18.53%)
 
-✍️ 207 lines written by AI, 5,450 lines written by hand (3.66% AI-written)
+✍️ 207 lines written by AI, 1,166 lines written by hand (15.08% AI-written)
 
 🔤 366,464 Input Tokens, 65,584 Output Tokens
 
@@ -34,13 +34,13 @@ Claude Code              1 hr 4 mins         ████░░░░░░░�
 GLM                      207 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.66% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 15.08% of written lines came from AI
 📄 Detailed Prompter — average 738 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 97.69% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 19:03:02 UTC
+ Last Updated on 30/10/2026 23:30:55 UTC
 <!--END_SECTION:waka-->
 Data taken from https://wakatime.com/@ardinusawan
